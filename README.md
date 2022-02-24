@@ -8,7 +8,7 @@ Udacity DataScience Nanodegree Project 1 - Stack Overflow Data Exploration & Ana
 3. [Data Descriptions](#data)
 4. [File Descriptions](#files)
 5. [Results](#results)
-6. [Licensing, Authors, and Acknowledgements](#licensing)
+6. [Authors and Acknowledgements](#acknowledgments)
 
 ## Installation <a name="installation"></a>
 
@@ -40,16 +40,14 @@ The following Airbnb activity is included in this Seattle dataset:
 
 There is a Jupyter notebook in this repository to showcase work related to the above questions.  Each of the notebooks is exploratory in nature, and include markdown cells to explain and describe the visualization and exploration process.  
 
-The notebooks that are related to the analysis presented in the medium blog (see below) are located here:
-
-    1) airbnb/ipynb/seattle_airbnb_neighborhood_exploration.ipynb
-
-The other notebooks in the scratch_ipynb folder include additional related exploratory analaysis that preceded the two notebooks listed, and include some potentially useful information, but are outside the scope of this project.
+The notebooks that are related to the analysis presented in the medium blog (see below) are here: https://github.com/ViNguyenThuyTuong/Udacity-DataScience-Project1/blob/main/StackOverflow_Exploratory_And_Visualization.ipynb
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available here: [whered-the-hippies-go](https://medium.com/@bridgethass/whered-the-hippies-go-aee4b0876dc7).
+The main findings of the code can be found at the post available here: [Stack Overflow 2021 Analysis](https://medium.com/@nguyenthuytuongvi56/stack-overflow-2021-analysis-445ade4e53b1).
 
-## Licensing, Authors, Acknowledgments <a name="licensing"></a>
+## Authors, Acknowledgments <a name="acknowledgments"></a>
 
-Data is provided by [insideairbnb](http://insideairbnb.com/get-the-data.html) and hosted on [kaggle](https://www.kaggle.com/airbnb/seattle/data), which also includes the licensing information. The code here is licensed under open source GNU General Public License v3.0, and is free to use as you wish, with no guarantees :)
+Data is provided by [insights.stackoverflow](https://insights.stackoverflow.com/survey)
+
+Code author: ViNguyenThuyTuong
