@@ -25,19 +25,20 @@ For this project, I'd like to use Stack Overflow 2021 data to better understand:
 
 ## Data Descriptions <a name="data"></a>
 
-The full set of files related to this course are stored on kaggle at the following link: https://www.kaggle.com/airbnb/seattle/data, originally obtained from http://insideairbnb.com/get-the-data.html.
+The full set of files related to this course are stored on insights.stackoverflow website, refer following link: https://insights.stackoverflow.com/survey 2021 part.
 
 The following Airbnb activity is included in this Seattle dataset:
 
-  1) `listings.csv`: full descriptions of listings and average review score
-  2) `reviews.csv`: unique id for each reviewer and detailed comments
-  3) `calendar.csv`: listing id and the price and availability for that day
+  1. `README_2021.txt`: a text file with descriptions about the data
+  2. `survey_results_public.csv`: CSV file with main survey results, one respondent per row and one column per answer
+  3. `survey_results_schema.csv`: CSV file with survey schema, i.e., the questions that correspond to each column name
+  4. `so_survey_2021.pdf`: PDF file of the survey instrument
   
-  For this analysis, I only used the `listings.csv` file.
+  For this analysis, I only used the `survey_results_public.csv` file.
 
 ## File Descriptions <a name="files"></a>
 
-There is 1 Jupyter notebook in this repository to showcase work related to the above questions.  Each of the notebooks is exploratory in nature, and include markdown cells to explain and describe the exploration process.  
+There is a Jupyter notebook in this repository to showcase work related to the above questions.  Each of the notebooks is exploratory in nature, and include markdown cells to explain and describe the visualization and exploration process.  
 
 The notebooks that are related to the analysis presented in the medium blog (see below) are located here:
 
