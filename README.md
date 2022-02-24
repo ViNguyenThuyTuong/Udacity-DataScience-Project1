@@ -12,25 +12,16 @@ Udacity DataScience Nanodegree Project 1 - Stack Overflow Data Exploration & Ana
 
 ## Installation <a name="installation"></a>
 
-The code was developed and tested using Python 3.6.7, and pandas version 0.25.0, with the standard Anaconda install and the package `basemap` for visualizing results in map-view.
-Basemap installations were run using conda as follows:
-    
-    1) `conda install basemap`
-    2) `conda install -c conda-forge basemap-data-hires`
-    
-Pandas upgrade to 0.25.0 was installed with pip3 as follows:
-    
-    3) `pip install pandas==0.25.0`
-    
-The code should run with no issues using Python versions 3.6 + and pandas version 0.25.0+
+The code was developed and tested using Python 3.6.5, pandas version 0.25.0, seaborn version 0.8.1, matplotlib version 2.2.2, and squarify version 0.4.3.    
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interested in using Seattle AirBnB data to better understand:
+For this project, I'd like to use Stack Overflow 2021 data to better understand:
 
-    1) Are hippies really dirty: do the hippy neighborhoods in Seattle have lower AirBnB cleanliness ratings?
-    2) Are communal AirBnB listings more common in hippy neighborhoods: Which neighborhoods have the highest proportion of shared-living listings?
-    3) Which factors contribute most to the cleanliness rating?
+    1) Which countries have the highest percentage of people using Stack Overflow?
+    2) What demographic are most of our Stack Overflow users in?
+    3) Which programming languages are most used in 2021 and which ones would become a trend in 2022?
+	4) Which databases are most used in 2021 and which ones would become a trend in 2022?
 
 ## Data Descriptions <a name="data"></a>
 
